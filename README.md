@@ -1,6 +1,10 @@
-# Luke's build of dwm
+# My build of Luke's build of dwm
 
 ## FAQ
+
+> What's different from Luke's build?
+
+It has a systray. That, and the readme includes this extra FAQ question/answer.
 
 > What are the bindings?
 
